@@ -1,5 +1,9 @@
 # persian-Typer-For-Python
 
+Download New Version
+
+جدیدترین نسخه را دانلود کنید
+
 Download the file. 
 
 Put all the contents of the downloaded file in your file
